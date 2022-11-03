@@ -1,7 +1,7 @@
 ---
 first_name: Olivier
 last_name: Burri
-short_name: oli
+short_name: Oli
 city: Lausanne
 affiliation: EPFL
 position: Bioimage Analyst
@@ -18,7 +18,7 @@ Oli has been working at the [BIOP](https://www.epfl.ch/research/facilities/ptbio
 
 *Areas of expertise:* Bioimage analysis, Whole Slide Imaging, Websites, IT hardware.
 
-Common BIA tools:* Fiji, CellProfiler, ilastik, Imaris, QuPath, OMERO.
+Common BIA tools:* Fiji, CellProfiler, ilastik, Imaris, QuPath, OMERO, StarDist, Cellpose.
 
 *Spoken Languages:* Groovy, Java, JavaScript, MATLAB, Python, R, Ruby, PHP, French, English, Spanish.
 
